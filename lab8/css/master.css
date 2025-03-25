@@ -23,6 +23,13 @@ img{
     width: 100%;
 }
 
+.inner-text{
+    padding-top: 10%;
+    width: 70%;
+    margin: auto;
+    font-size: 120%;
+}
+
 .xxxxx{
     background-image: url("");
 }
