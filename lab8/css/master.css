@@ -1,0 +1,23 @@
+.menu-text{
+    font-weight: bolder;
+    color: darkgreen;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.menu-color{
+    background-color: white !important;
+    box-shadow: 0px 3px 3px #aaa;
+}
+
+#banner{
+    width: 100%;
+}
+
+img{
+    width: 100%;
+}
+
+.xxxxx{
+    background-image: url("");
+}
