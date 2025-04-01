@@ -30,6 +30,10 @@ img{
     font-size: 120%;
 }
 
-.xxxxx{
+#activities{
+    padding: auto;
+    margin: auto;
     background-image: url("");
+    background-size: cover;
+    color: white;
 }
