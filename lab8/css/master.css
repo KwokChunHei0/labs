@@ -3,6 +3,52 @@ body{
     padding:0px !important;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Boldonse&display=swap');
+
+.boldonese-regular{
+font-family: "Boldonse" ;
+}
+
+.menu-item{
+    color: black;
+    font-size: 10pt;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+    .menu-item:hover{
+        color: darkgreen;
+    }
+.white-bg {
+    background-color: white !important;
+}
+    #banner{
+        width: 100%;
+    }
+
+.green-text{
+    background-color: #1e3932;
+    color: white;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    margin: 0px;
+}
+
+.my-btn{
+    background-color: #1e3932;
+    color: white;
+    padding: 0%;
+}
+
+.logo-img{
+    width: 180px;
+    /* height: 100px; */
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+
 .menu-text{
     font-weight: bolder;
     color: darkgreen;
