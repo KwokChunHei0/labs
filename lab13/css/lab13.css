@@ -1,0 +1,29 @@
+@import url(http://fonts.googleapis.com/css?family=Raleway:800);
+body {
+	background-color: #666;
+	background: url('../images/bg0.jpg') no-repeat center center fixed;
+	background-size: cover;
+	font-family: 'Raleway', sans-serif;
+	font-size: x-large;
+	color: #FFF;
+}
+#content { /*Normal State*/
+	box-sizing: border-box;
+	background-color: rgba(255,66,66,0.5);
+	width: 50%;
+	position: absolute;
+	top: 25%;
+	left: 25%;
+	border: solid #FFF;
+	padding: 2%;
+	/* transition-property: all;
+	transition-duration: 3s;
+	transition-timing-function: ease-in-out;
+	transition-delay: 0.5s; */
+}
+#content:hover { /*End State*/
+	left: 500px;
+	width: 25%;
+	background-color: rgba(66,66,255,0.5);
+	opacity: 0;
+}
