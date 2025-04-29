@@ -10,6 +10,7 @@ $(document).ready(function() {
     $('body').css('background-image','url(images/bg0.jpg)');
     }else if($key == 40){
     $('content').text("DOWN!");
+    $('body').css('background-image','url(images/bg1.jpg)');
   }
 });
 
